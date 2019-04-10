@@ -1,0 +1,8 @@
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\bin\Debug\netstandard2.0\WebAPICore.ThirdParty.deps.json
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\bin\Debug\netstandard2.0\WebAPICore.ThirdParty.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\bin\Debug\netstandard2.0\WebAPICore.ThirdParty.pdb
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.csproj.CoreCompileInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.AssemblyInfoInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.AssemblyInfo.cs
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.pdb

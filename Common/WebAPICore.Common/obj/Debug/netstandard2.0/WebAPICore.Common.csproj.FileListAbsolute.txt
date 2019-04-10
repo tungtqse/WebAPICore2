@@ -1,0 +1,9 @@
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\bin\Debug\netstandard2.0\WebAPICore.Common.deps.json
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\bin\Debug\netstandard2.0\WebAPICore.Common.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\bin\Debug\netstandard2.0\WebAPICore.Common.pdb
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.csproj.CoreCompileInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.AssemblyInfoInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.AssemblyInfo.cs
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.pdb
+d:\Source Code\Pet Projects\PP1\BackEnd\Common\WebAPICore.Common\obj\Debug\netstandard2.0\WebAPICore.Common.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAPICore.DataModel\WebAPICore.DataModel.csproj" />
+    <ProjectReference Include="..\WebAPICore.DataTransferObject\WebAPICore.DataTransferObject.csproj" />
+    <ProjectReference Include="..\..\Common\WebAPICore.Common\WebAPICore.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.4" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

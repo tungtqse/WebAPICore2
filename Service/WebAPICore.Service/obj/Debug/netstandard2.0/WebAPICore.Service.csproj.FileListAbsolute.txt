@@ -1,0 +1,8 @@
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\bin\Debug\netstandard2.0\WebAPICore.Service.deps.json
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\bin\Debug\netstandard2.0\WebAPICore.Service.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\bin\Debug\netstandard2.0\WebAPICore.Service.pdb
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.csproj.CoreCompileInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.AssemblyInfoInputs.cache
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.AssemblyInfo.cs
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.dll
+d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.pdb
