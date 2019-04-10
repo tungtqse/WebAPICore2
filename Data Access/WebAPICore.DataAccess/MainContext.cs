@@ -7,7 +7,7 @@ namespace WebAPICore.DataAccess
 {
     public class MainContext : DbContext
     {
-        public MainContext() { }
+        public MainContext() { }  
 
         public MainContext(DbContextOptions<MainContext> options) : base(options) { }
 
