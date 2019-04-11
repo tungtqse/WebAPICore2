@@ -6,3 +6,4 @@ d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\net
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.AssemblyInfo.cs
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.dll
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.pdb
+D:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.Service\obj\Debug\netstandard2.0\WebAPICore.Service.csprojAssemblyReference.cache

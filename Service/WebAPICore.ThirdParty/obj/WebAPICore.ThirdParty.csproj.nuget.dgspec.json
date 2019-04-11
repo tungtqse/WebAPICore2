@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj": {}
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj": {}
   },
   "projects": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj",
         "projectName": "WebAPICore.ThirdParty",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\WebAPICore.ThirdParty.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ThirdParty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

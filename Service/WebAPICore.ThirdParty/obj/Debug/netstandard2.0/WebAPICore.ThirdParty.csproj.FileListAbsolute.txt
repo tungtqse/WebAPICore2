@@ -6,3 +6,4 @@ d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.AssemblyInfo.cs
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.dll
 d:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.pdb
+D:\Source Code\Pet Projects\PP1\BackEnd\Service\WebAPICore.ThirdParty\obj\Debug\netstandard2.0\WebAPICore.ThirdParty.csprojAssemblyReference.cache

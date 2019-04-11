@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj": {}
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj": {}
   },
   "projects": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj",
         "projectName": "WebAPICore.Common",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,38 +56,40 @@
         }
       }
     },
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj",
         "projectName": "WebAPICore.DataAccess",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj"
               }
             }
           }
@@ -107,6 +111,20 @@
               "target": "Package",
               "version": "[2.2.4, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -122,25 +140,27 @@
         }
       }
     },
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj",
         "projectName": "WebAPICore.DataModel",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -162,6 +182,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
             }
           },
           "imports": [
@@ -172,25 +196,27 @@
         }
       }
     },
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
         "projectName": "WebAPICore.DataTransferObject",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -222,41 +248,43 @@
         }
       }
     },
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj",
         "projectName": "WebAPICore.ApplicationAPI",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataAccess\\WebAPICore.DataAccess.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataModel\\WebAPICore.DataModel.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj"
               }
             }
           }
@@ -285,35 +313,37 @@
         }
       }
     },
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj",
         "projectName": "WebAPICore",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\WebAPICore.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\WebAPICore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Common\\WebAPICore.Common\\WebAPICore.Common.csproj"
               },
-              "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj": {
-                "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj"
+              "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj": {
+                "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Service\\WebAPICore.ApplicationAPI\\WebAPICore.ApplicationAPI.csproj"
               }
             }
           }
@@ -341,6 +371,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

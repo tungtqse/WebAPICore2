@@ -6,3 +6,4 @@ d:\Source Code\Pet Projects\PP1\BackEnd\Data Access\WebAPICore.DataTransferObjec
 d:\Source Code\Pet Projects\PP1\BackEnd\Data Access\WebAPICore.DataTransferObject\obj\Debug\netstandard2.0\WebAPICore.DataTransferObject.AssemblyInfo.cs
 d:\Source Code\Pet Projects\PP1\BackEnd\Data Access\WebAPICore.DataTransferObject\obj\Debug\netstandard2.0\WebAPICore.DataTransferObject.dll
 d:\Source Code\Pet Projects\PP1\BackEnd\Data Access\WebAPICore.DataTransferObject\obj\Debug\netstandard2.0\WebAPICore.DataTransferObject.pdb
+D:\Source Code\Pet Projects\PP1\BackEnd\Data Access\WebAPICore.DataTransferObject\obj\Debug\netstandard2.0\WebAPICore.DataTransferObject.csprojAssemblyReference.cache

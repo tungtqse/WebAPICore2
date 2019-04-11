@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {}
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {}
   },
   "projects": {
-    "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
+    "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
+        "projectUniqueName": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
         "projectName": "WebAPICore.DataTransferObject",
-        "projectPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
+        "projectPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\WebAPICore.DataTransferObject.csproj",
         "packagesPath": "C:\\Users\\Tung\\.nuget\\packages\\",
-        "outputPath": "d:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\obj\\",
+        "outputPath": "D:\\Source Code\\Pet Projects\\PP1\\BackEnd\\Data Access\\WebAPICore.DataTransferObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

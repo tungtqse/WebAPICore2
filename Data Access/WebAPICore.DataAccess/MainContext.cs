@@ -2,12 +2,13 @@
 using Microsoft.EntityFrameworkCore;
 using WebAPICore.Common;
 using WebAPICore.DataModel.Models;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace WebAPICore.DataAccess
 {
     public class MainContext : DbContext
     {
-        public MainContext() { }  
+        public MainContext() { }
 
         public MainContext(DbContextOptions<MainContext> options) : base(options) { }
 
@@ -15,7 +16,8 @@ namespace WebAPICore.DataAccess
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();         
+            //modelBuilder.Conventions.Remove<PluralizingTableNameConvention>(); 
+            base.OnModelCreating(modelBuilder);
         }
     }
 }
