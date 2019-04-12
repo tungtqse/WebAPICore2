@@ -8,7 +8,7 @@ namespace WebAPICore.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "AuditTrails",
+                name: "AuditTrail",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(nullable: false),
@@ -24,14 +24,14 @@ namespace WebAPICore.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_AuditTrails", x => x.Id);
+                    table.PrimaryKey("PK_AuditTrail", x => x.Id);
                 });
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "AuditTrails");
+                name: "AuditTrail");
         }
     }
 }

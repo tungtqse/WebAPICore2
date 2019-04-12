@@ -10,7 +10,7 @@ using WebAPICore.DataAccess;
 namespace WebAPICore.Migrations
 {
     [DbContext(typeof(MainContext))]
-    [Migration("20190411035331_InitalCreate")]
+    [Migration("20190411093522_InitalCreate")]
     partial class InitalCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -46,7 +46,7 @@ namespace WebAPICore.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AuditTrails");
+                    b.ToTable("AuditTrail");
                 });
 #pragma warning restore 612, 618
         }
